@@ -1,7 +1,6 @@
 // prevent popup hover
 .mwe-popups {
     pointer-events: none;
-    cursor: crosshair !important;
 }
 
 // hide inaccessible settings gear
