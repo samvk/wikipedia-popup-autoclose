@@ -1,14 +1,14 @@
-// prevent popup hover
+/* prevent popup hover */
 .mwe-popups {
     pointer-events: none;
 }
 
-// hide inaccessible settings gear
+/* hide inaccessible settings gear */
 .mwe-popups-settings-icon {
     display: none;
 }
 
-// reset spacing made for settings gear
+/* reset spacing made for settings gear */
 .mwe-popups.mwe-popups-is-not-tall .mwe-popups-container .mwe-popups-extract {
     margin-bottom: 16px;
 }
