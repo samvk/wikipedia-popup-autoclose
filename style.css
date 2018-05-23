@@ -9,6 +9,6 @@
 }
 
 /* reset spacing made for settings gear */
-.mwe-popups.mwe-popups-is-not-tall .mwe-popups-container .mwe-popups-extract {
+.mwe-popups.mwe-popups-is-not-tall:not(.mwe-popups-type-disambiguation) .mwe-popups-extract {
     margin-bottom: 16px;
 }

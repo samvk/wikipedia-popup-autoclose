@@ -1,7 +1,7 @@
 {
   "name": "Wikipedia popup autoclose",
   "manifest_version": 2,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Navigation popups automatically close as soon as you stop hovering over the link. No more getting trapped inside popups!",
   "author": "Sam Kauffman (SamVK)",
   "icons": {
